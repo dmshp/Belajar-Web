@@ -93,3 +93,12 @@ a {
     transform: rotate(30deg);
 }
 
+form label {
+    color: blue;
+    text-align: right;   
+}
+
+form input {
+    background-color: aqua;
+    
+}
